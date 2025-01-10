@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Online learning platform**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-o2q4s2l7r-sakshis-projects-d89d487e.vercel.app/](https://my-portfolio-o2q4s2l7r-sakshis-projects-d89d487e.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-tau-lyart.vercel.app/](https://my-portfolio-tau-lyart.vercel.app/)
 
 - 💬 Ask me about **Mern**
 
